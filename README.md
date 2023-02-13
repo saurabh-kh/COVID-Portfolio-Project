@@ -1,6 +1,6 @@
 # COVID-Portfolio-Project
 Complete SQL Queries used for Tableau visualisation.
-https://public.tableau.com/shared/MFTP6F674?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/saurabh.khalate
 
 
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
